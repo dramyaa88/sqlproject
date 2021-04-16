@@ -1,0 +1,5 @@
+class_name = " "com.mysql.jdbc.Driver";
+url = "jdbc:mysql://localhost:3306/Employee";
+dbname = "Employee";
+uid = "root";
+pwd = "root";
